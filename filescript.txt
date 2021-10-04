@@ -8,3 +8,4 @@ percobaan untuk melakukan pull dan push di git dan github
 7. git remote add origin master ...
 8. update filescript
 9. lakukan add, commit, git push
+
